@@ -62,7 +62,14 @@
         "codespaces": {
             "openFiles": [
                 "docs/codespaces-welcome.md"
-            ]
+            ],
+            "repositories": {
+                "eleos5/lila": {
+                    "permissions": {
+                        "contents": "write"
+                    }
+                }
+            }
         },
         "vscode": {
             "extensions": [
